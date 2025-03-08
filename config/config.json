@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "restaurantuni",
+    "password": "Kemal.88",
+    "database": "restaurant_db",
+    "host": "restaurantuni.database.windows.net",
+    "port": 1433,
+    "dialect": "mssql",
+    "dialectOptions": {
+      "encrypt": true
+    }
+  },
+  "test": {
+    "username": "restaurantuni",
+    "password": "Kemal.88",
+    "database": "restaurant_db",
+    "host": "restaurantuni.database.windows.net",
+    "port": 1433,
+    "dialect": "mssql",
+    "dialectOptions": {
+      "encrypt": true
+    }
+  },
+  "production": {
+    "username": "restaurantuni",
+    "password": "Kemal.88",
+    "database": "restaurant_db",
+    "host": "restaurantuni.database.windows.net",
+    "port": 1433,
+    "dialect": "mssql",
+    "dialectOptions": {
+      "encrypt": true
+    }
+  }
+}

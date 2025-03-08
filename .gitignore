@@ -1,0 +1,5 @@
+node_modules
+/customer/node_modules
+/management/node_modules
+/employee/node_modules
+/gateway/node_modules
